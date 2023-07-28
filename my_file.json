@@ -1,0 +1,86 @@
+{
+ "name": ".",
+ "type": "dir",
+ "parent": ".",
+ "size": 4096
+}{
+ "name": "exercises.py",
+ "type": "file",
+ "parent": ".",
+ "size": 1715
+}{
+ "name": "file1.json",
+ "type": "file",
+ "parent": ".",
+ "size": 197
+}{
+ "name": "file1.pickle",
+ "type": "file",
+ "parent": ".",
+ "size": 184
+}{
+ "name": "file2.csv",
+ "type": "file",
+ "parent": ".",
+ "size": 0
+}{
+ "name": "file2.json",
+ "type": "file",
+ "parent": ".",
+ "size": 131
+}{
+ "name": "file2.pickle",
+ "type": "file",
+ "parent": ".",
+ "size": 84
+}{
+ "name": "main.py",
+ "type": "file",
+ "parent": ".",
+ "size": 544
+}{
+ "name": "task_1.py",
+ "type": "file",
+ "parent": ".",
+ "size": 2370
+}{
+ "name": ".idea",
+ "type": "dir",
+ "parent": ".\\.idea",
+ "size": 4096
+}{
+ "name": ".gitignore",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 50
+}{
+ "name": "HomeWork8.iml",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 291
+}{
+ "name": "misc.xml",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 196
+}{
+ "name": "modules.xml",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 277
+}{
+ "name": "workspace.xml",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 3210
+}{
+ "name": "inspectionProfiles",
+ "type": "dir",
+ "parent": ".\\.idea\\inspectionProfiles",
+ "size": 0
+}{
+ "name": "profiles_settings.xml",
+ "type": "file",
+ "parent": ".\\.idea\\inspectionProfiles",
+ "size": 174
+}
